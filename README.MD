@@ -1,4 +1,4 @@
-#READ ME VERY IMPORTANT#
+**READ ME VERY IMPORTANT**
 RouterIP in *6RR+* is **bugged** cuz it will not show ur actual IP and instead my IP (A little chance of me getting doxxed but I don't care :3) and I don't know how to fix lol. So Ignore that option entirely. 
 No major trouble or no trouble at all for RouterIP :)
 Contact me on discord as I am the one who forked this Tekno and maxi terminal.
